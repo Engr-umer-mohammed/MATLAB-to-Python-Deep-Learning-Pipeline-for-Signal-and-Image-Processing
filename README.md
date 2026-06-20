@@ -69,12 +69,12 @@ project_root/
 │
 └── docs/
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 The following metrics are used throughout the project:
 - Mean Squared Error (MSE)
 - Peak Signal-to-Noise Ratio (PSNR)
 - Structural Similarity Index (SSIM)
-## 💡 Key Engineering Insights
+## Key Engineering Insights
 - Numerical results vary across software platforms due to implementation differences.
 - Parameter tuning significantly affects image quality metrics.
 - Classical image processing techniques may outperform naïve deep learning models in some cases.
